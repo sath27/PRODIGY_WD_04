@@ -1,0 +1,27 @@
+body{
+    background:url(./_on.jpeg);
+    margin:20px;
+    padding:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 700px;
+    background-position: fixed;
+}
+.cont{
+    color:rgb(252, 254, 254);
+}
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=email]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+  
